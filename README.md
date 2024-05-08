@@ -1,16 +1,12 @@
-# tugashttpresti
+# Restiana Anggraeni (123210059)
 
-A new Flutter project.
+# Harry Potter Characters API (Gryffindor)
 
-## Getting Started
+## Introduction
+Welcome to the Harry Potter Characters API! This API provides information about characters from the Gryffindor house in the Harry Potter series.
 
-This project is a starting point for a Flutter application.
+## API Description
+The Harry Potter Characters API retrieves data about Gryffindor characters including their names, actor, and other details.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API Link
+https://hp-api.onrender.com/
