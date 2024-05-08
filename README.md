@@ -9,4 +9,4 @@ Welcome to the Harry Potter Characters API! This API provides information about 
 The Harry Potter Characters API retrieves data about Gryffindor characters including their names, actor, and other details.
 
 ## API Link
-https://hp-api.onrender.com/
+https://hp-api.onrender.com/api/characters/house/gryffindor
