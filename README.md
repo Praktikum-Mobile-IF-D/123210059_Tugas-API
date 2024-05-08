@@ -1,6 +1,6 @@
 # Restiana Anggraeni (123210059)
 
-# Harry Potter Characters API (Gryffindor)
+## Harry Potter Characters API (Gryffindor)
 
 ## Introduction
 Welcome to the Harry Potter Characters API! This API provides information about characters from the Gryffindor house in the Harry Potter series.
